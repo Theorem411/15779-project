@@ -2,7 +2,7 @@
 
 This repository contains benchmarks and examples for Triton's Gluon experimental features, focusing on GEMM (General Matrix Multiply) kernels for NVIDIA Blackwell GPUs.
 
-**Our video demo can be found here: ** (https://drive.google.com/drive/folders/1XJUQBkOG8Ufg3N74uQZSvWUHqv9QyRSX?usp=sharing)[https://drive.google.com/drive/folders/1XJUQBkOG8Ufg3N74uQZSvWUHqv9QyRSX?usp=sharing]
+**Our video demo can be found here: ** https://drive.google.com/drive/folders/1XJUQBkOG8Ufg3N74uQZSvWUHqv9QyRSX?usp=sharing
 
 ## Prerequisites
 
