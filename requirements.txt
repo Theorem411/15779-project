@@ -1,0 +1,7 @@
+# Core dependencies for gluon-survey
+torch==2.5.0
+pytest==8.4.2
+numpy==2.3.3
+
+# Additional dependencies that may be needed
+# Note: Triton should be installed from source (see README.md)
